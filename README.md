@@ -1,4 +1,4 @@
-# ccaubio
+# Lua Aubio
 aubio++
 
 # ccaubio
