@@ -1,6 +1,9 @@
 # ccaubio
 aubio++
 
+# ccaubio
+* very simple c++ wrapper of aubio modules
+
 # Aubio
 * Pitch Shift
 * Time Stretch
@@ -36,5 +39,3 @@ aubio++
 * MathUtils
 * MusicUtils
 
-# ccaubio
-* very simple c++ wrapper of aubio modules
