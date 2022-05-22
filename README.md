@@ -1,9 +1,6 @@
 # ccaubio
 aubio++
 
-# Thinga that could be done
-* accelerate vectors with mkl
-
 # Aubio
 * Pitch Shift
 * Time Stretch
